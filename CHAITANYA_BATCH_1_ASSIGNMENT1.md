@@ -1,8 +1,8 @@
 # Assignment 1
 
 ## Student Details
-**Student Name: ** Chaitanya Agrawal  
-**Batch No.: ** Batch 1
+**Student Name:** Chaitanya Agrawal  
+**Batch No.:** Batch 1
 
 ## Topics
 
